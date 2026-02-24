@@ -6,7 +6,7 @@ Sou um Desenvolvedor de Sistemas formado pela Etec de Itaquera. Atualmente, esto
 - 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas (2025). Em preparação para ingressar em Ciências da Computação.
 - ⚡ **Curiosidade:** Nas horas vagas, sou fascinado por montagem e configuração de hardware de PCs.
 
----
+----
 
 ### 🚀 Tecnologias e Ferramentas
 
