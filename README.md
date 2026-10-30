@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Samuel Bassoli 👋
 
-Sou um Desenvolvedor de Sistemas formado pela Etec de Itaquera. Atualmente, estou focado em aprimorar minhas habilidades como desenvolvedor e busco minha primeira oportunidade como **Estagiário ou Jovem Aprendiz** em São Paulo ou remoto.
+Sou um Desenvolvedor de Sistemas formado pela Etec de Itaquera. Atualmente, estou focado em aprimorar minhas habilidades como desenvolvedor
 
 - 💻 **Minhas principais ferramentas:** JavaScript, PHP, Laravel, HTML5, CSS3, MySQL, e Google Firebase.
 - 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas (2025). Em preparação para ingressar em Ciências da Computação.
